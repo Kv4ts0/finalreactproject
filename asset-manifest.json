@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/finalreactproject/static/css/main.8b6c4a65.chunk.css",
+    "main.js": "/finalreactproject/static/js/main.44ec62fb.chunk.js",
+    "main.js.map": "/finalreactproject/static/js/main.44ec62fb.chunk.js.map",
+    "runtime-main.js": "/finalreactproject/static/js/runtime-main.fe844f90.js",
+    "runtime-main.js.map": "/finalreactproject/static/js/runtime-main.fe844f90.js.map",
+    "static/js/2.071b2f0f.chunk.js": "/finalreactproject/static/js/2.071b2f0f.chunk.js",
+    "static/js/2.071b2f0f.chunk.js.map": "/finalreactproject/static/js/2.071b2f0f.chunk.js.map",
+    "static/js/3.69e68c46.chunk.js": "/finalreactproject/static/js/3.69e68c46.chunk.js",
+    "static/js/3.69e68c46.chunk.js.map": "/finalreactproject/static/js/3.69e68c46.chunk.js.map",
+    "index.html": "/finalreactproject/index.html",
+    "static/css/main.8b6c4a65.chunk.css.map": "/finalreactproject/static/css/main.8b6c4a65.chunk.css.map",
+    "static/js/2.071b2f0f.chunk.js.LICENSE.txt": "/finalreactproject/static/js/2.071b2f0f.chunk.js.LICENSE.txt",
+    "static/media/1.bb8c041b.jpg": "/finalreactproject/static/media/1.bb8c041b.jpg",
+    "static/media/2.2b5fe354.jpg": "/finalreactproject/static/media/2.2b5fe354.jpg",
+    "static/media/3.74ae0131.jpg": "/finalreactproject/static/media/3.74ae0131.jpg",
+    "static/media/call.f6602d94.svg": "/finalreactproject/static/media/call.f6602d94.svg",
+    "static/media/App.css": "/finalreactproject/static/media/contact-back-01.cb447ee7.jpg",
+    "static/media/email.9fc49add.svg": "/finalreactproject/static/media/email.9fc49add.svg",
+    "static/media/executive.ea679b68.svg": "/finalreactproject/static/media/executive.ea679b68.svg",
+    "static/media/facebook.5c77fe31.svg": "/finalreactproject/static/media/facebook.5c77fe31.svg",
+    "static/media/i1.c912fe85.jpg": "/finalreactproject/static/media/i1.c912fe85.jpg",
+    "static/media/i2.43981399.jpg": "/finalreactproject/static/media/i2.43981399.jpg",
+    "static/media/i3.5c09dc1e.jpg": "/finalreactproject/static/media/i3.5c09dc1e.jpg",
+    "static/media/i4.c43bcdeb.jpg": "/finalreactproject/static/media/i4.c43bcdeb.jpg",
+    "static/media/key.a2d07e78.svg": "/finalreactproject/static/media/key.a2d07e78.svg",
+    "static/media/map.336db74f.png": "/finalreactproject/static/media/map.336db74f.png",
+    "static/media/map.8ffe5ab1.svg": "/finalreactproject/static/media/map.8ffe5ab1.svg",
+    "static/media/map1.6990187f.svg": "/finalreactproject/static/media/map1.6990187f.svg",
+    "static/media/planning.65809393.svg": "/finalreactproject/static/media/planning.65809393.svg",
+    "static/media/shuttle.753e2e67.svg": "/finalreactproject/static/media/shuttle.753e2e67.svg",
+    "static/media/smartphone.5dac711b.svg": "/finalreactproject/static/media/smartphone.5dac711b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe844f90.js",
+    "static/js/2.071b2f0f.chunk.js",
+    "static/css/main.8b6c4a65.chunk.css",
+    "static/js/main.44ec62fb.chunk.js"
+  ]
+}
